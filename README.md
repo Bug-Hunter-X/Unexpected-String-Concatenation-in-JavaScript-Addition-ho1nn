@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript involving type coercion during addition.  The `bug.js` file shows the unexpected behavior when adding a number and a string. The `bugSolution.js` file provides a corrected version using `parseInt` to ensure numeric addition.
